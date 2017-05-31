@@ -1,0 +1,66 @@
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.exe
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.pdb
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Chitietphieumuon.resources
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Docgia.resources
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Phieumuontra.resources
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.exe
+c:\users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.frmDauSach.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Trangchu.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.CuonSach.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.HoaDon.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Chitiethoadon.resources
+C:\Users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.thuthu.resources
+C:\Users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.tacgia.resources
+C:\Users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.nxb.resources
+C:\Users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.thedocgia.resources
+C:\Users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.danhsachsangtac.resources
+C:\Users\dell\documents\visual studio 2012\Projects\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.kesach.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.exe.config
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.exe
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.pdb
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.csprojResolveAssemblyReference.cache
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Chitiethoadon.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Chitietphieumuon.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.CuonSach.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.danhsachsangtac.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.frmDauSach.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Docgia.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.HoaDon.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.kesach.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.nxb.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Phieumuontra.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Properties.Resources.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.tacgia.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.thedocgia.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.thuthu.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Trangchu.resources
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.csproj.GenerateResource.Cache
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.exe
+C:\Users\voicoi\Documents\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.pdb
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.exe.config
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.exe
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.pdb
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.csprojResolveAssemblyReference.cache
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Chitietphieumuon.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.CuonSach.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.frmDauSach.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Docgia.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.nxb.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Phieumuontra.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Properties.Resources.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.tacgia.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.thuthu.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Trangchu.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.csproj.GenerateResource.Cache
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.exe
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\bin\Debug\ql_thu_vien.pdb
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.QuyDinh.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.xupahat.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.dangnhap.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.login.resources
+E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Nguoidung.resources
