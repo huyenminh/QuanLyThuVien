@@ -16,7 +16,7 @@ namespace ql_thu_vien.DataAccessLayer
         {
             try
             {
-                string sql = @"Server=DESKTOP-8J03LKB;Database=QLTV;Trusted_Connection=true ";
+                string sql = @"Server=ADMINS\SQLEXPRESS;Database=QLTV;Trusted_Connection=true ";
                 conn = new SqlConnection(sql);
                 conn.Open();
                 return conn;

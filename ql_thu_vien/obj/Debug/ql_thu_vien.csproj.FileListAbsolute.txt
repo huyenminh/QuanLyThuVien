@@ -64,3 +64,25 @@ E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu
 E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.dangnhap.resources
 E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.login.resources
 E:\nhóm 7 quản lí thư viện Diễn Thúy Huyền Thảo\ql_thu_vien\ql_thu_vien\obj\Debug\ql_thu_vien.Nguoidung.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\bin\Debug\ql_thu_vien.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\bin\Debug\ql_thu_vien.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\bin\Debug\ql_thu_vien.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.Chitietphieumuon.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.CuonSach.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.dangnhap.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.frmDauSach.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.Docgia.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.login.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.Nguoidung.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.nxb.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.Phieumuontra.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.QuyDinh.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.tacgia.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.thuthu.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.Trangchu.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.xupahat.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyThuVien\ql_thu_vien\obj\Debug\ql_thu_vien.csproj.GenerateResource.Cache

@@ -18,7 +18,7 @@ namespace ql_thu_vien
         private SqlDataAdapter da = new SqlDataAdapter();
         private void connect ()
         {
-            string sql = @"Server=DESKTOP-8J03LKB;Database=QLTV;Trusted_Connection=true ";
+            string sql = @"Server=ADMINS\SQLEXPRESS;Database=QLTV;Trusted_Connection=true ";
             try
             {
                 conn = new SqlConnection(sql);

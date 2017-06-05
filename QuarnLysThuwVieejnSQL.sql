@@ -90,11 +90,11 @@ tinhtrangsauchomuon nvarchar(50),
 ngaymuon date,
 ngaytra date ,
 ngayhentra date,
-songayhethan int
+songayhethan int,
+socuon int
 )
-alter table chitietphieumuon add socuon int
-
-create table admin (
-matkhau int ,
-tendangnhap char(10) references thuthu(matt)
+create table nguoidung(
+STT int identity primary key,
+tendangnhap nvarchar(50),
+matkhau nvarchar(50),
 )

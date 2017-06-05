@@ -101,6 +101,7 @@ namespace ql_thu_vien
             tt.ngaysinh = datengaysinh.Value;
             tt.diachi = txtdiachi.Text;
             tt.mags = txtmags.Text;
+
             if (MessageBox.Show(string.Format("thêm thủ thư"), "", MessageBoxButtons.OKCancel) == DialogResult.OK)
             {
                 if (Bus.InsertProfile(tt) > 0)

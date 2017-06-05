@@ -24,7 +24,7 @@ delete phieumuontra
 where maphieu=@ma
 end
                              --THÊM ĐỘC GIẢ
-alter proc themdocgia (@madg char(10),@ten nvarchar(50),@ngaysinh date,@diachi nvarchar(50),@kh char(30),@nganh nvarchar(50),@lop char(20),@ncn datetime ,@loaidg nvarchar(50))
+create proc themdocgia (@madg char(10),@ten nvarchar(50),@ngaysinh date,@diachi nvarchar(50),@kh char(30),@nganh nvarchar(50),@lop char(20),@ncn datetime ,@loaidg nvarchar(50))
 as
  begin
  insert into docgia(madg,tendg,ngaysinh,diachi,khoahoc,nganh,Lop,ngaycapnhat,loaidg)
@@ -54,7 +54,7 @@ select *from docgia
 where tendg like '%'+@ten+'%'
 end 
                    --THÊM CHI TIẾT PHIẾU MƯa
-alter   proc themchitietphieumuon @macs char(10),@maphieu char(10),@tinhtrangtruoc nvarchar(50),@tinhtrangsau nvarchar(50),@ngaymuon date ,@ngaytra date ,@ngayhentra date ,@songayhethan int,@socuon int
+create   proc themchitietphieumuon @macs char(10),@maphieu char(10),@tinhtrangtruoc nvarchar(50),@tinhtrangsau nvarchar(50),@ngaymuon date ,@ngaytra date ,@ngayhentra date ,@songayhethan int,@socuon int
 as
 begin 
 insert into chitietphieumuon(macs,maphieu,tinhtrangtruocchomuon,tinhtrangsauchomuon,ngaymuon,ngaytra,ngayhentra,songayhethan,socuon)
@@ -71,14 +71,16 @@ set tinhtrangsauchomuon=@tinhtrangsau
 where macs=@macs and maphieu=@maphieu
 end 
                 --XÓA CHI TIẾT PHIẾU MƯỢN
-alter proc xoachitietphieumuon @macs char(10),@maphieu char(10)
+create proc xoachitietphieumuon @macs char(10),@maphieu char(10)
 as
 begin
 delete chitietphieumuon
 where macs=@macs and maphieu=@maphieu
 update phieumuontra set socuonmuonve=socuonmuonve - '1'
 end
- alter proc xemchitietmuontra(@ma char(10))
+
+                         chitietphieu muon 
+ create  proc xemchitietmuontra(@ma char(10))
 as
 begin
 select * from chitietphieumuon
@@ -90,7 +92,7 @@ end
 
                                        --THÊM 
 
-alter proc Themdausach(@madausach char(10), @tendausach nvarchar(50), @manxb char(10),@st int,@giabia int , @nganhhoc nvarchar(50),@nn nvarchar(50),@namxb datetime ,@tt nvarchar(50),@matg char(10),@sltaiban int)
+create proc Themdausach(@madausach char(10), @tendausach nvarchar(50), @manxb char(10),@st int,@giabia int , @nganhhoc nvarchar(50),@nn nvarchar(50),@namxb datetime ,@tt nvarchar(50),@matg char(10),@sltaiban int)
 as
  begin
  insert into dausach(masach, tensach, manxb,sotrang,giabia,nganhhoc,ngonngu,namxuatban,tinhtrang,matg,soluongtaiban)
@@ -154,10 +156,10 @@ end
                 --THỦ THƯ
 									 --THÊM THỦ THƯ
 
-	create proc themthuthu @matt char(10),@ten nvarchar(50),@ngaysinh date,@diachi nvarchar(50),@mags char(10)
+  alter  proc themthuthu @matt char(10),@ten nvarchar(50),@ngaysinh date,@diachi nvarchar(50),@mags char(10)
 	as
 	begin
-	insert into thuthu
+	insert into thuthu(matt,tentt,ngaysinh,diachi,mags)
 	values(@matt,@ten,@ngaysinh,@diachi,@mags)
 	end
 	select*from thuthu
@@ -267,28 +269,28 @@ begin
 select * from chitietphieumuon
 where maphieu= @ma
 end
+ 
 
 
-=--- admin 
-  				  --- thêm admin 
-create proc themadmin @ma int ,@tendangnhap char(10)
+ 
+--them người dùng
+create proc themnd @tendangnhap nvarchar(50),@matkhau nvarchar(50)
 as
 begin
-insert into admin(matkhau , tendangnhap)
-values (@ma,@tendangnhap)
-end        
-                         ---- sửa admin 
-create proc suaadmin @ma int ,@tendangnhap char(10)
+insert into nguoidung(tendangnhap,matkhau)
+values(@tendangnhap,@matkhau)
+end
+--sửa
+create proc suand @STT int,@tendangnhap nvarchar(50),@matkhau nvarchar(50)
 as
 begin
-update admin
-set  matkhau=@ma
-where tendangnhap=@tendangnhap
-end 			
-                   --- xóa admin
-create proc xoaadmin @ma int , @tendangnhap char(10)
-as 
-begin 
-delete admin
-where tendangnhap=@tendangnhap               
- end	
+update nguoidung set tendangnhap=@tendangnhap,matkhau=@matkhau
+where  STT=@STT
+end
+--xóa
+create proc xoand @stt int
+as
+begin
+delete nguoidung
+where STT=@STT
+end

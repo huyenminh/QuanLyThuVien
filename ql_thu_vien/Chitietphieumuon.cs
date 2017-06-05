@@ -18,7 +18,7 @@ namespace ql_thu_vien
     {
          
         public string ma;
-        string sql = @"Server=DESKTOP-8J03LKB;Database=QLTV;Trusted_Connection=true";
+        string sql = @"Server=ADMINS\SQLEXPRESS;Database=QLTV;Trusted_Connection=true";
         SqlConnection conn;
 
         public Chitietphieumuon()

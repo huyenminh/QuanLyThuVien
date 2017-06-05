@@ -382,7 +382,7 @@ namespace ql_thu_vien.DataAccessLayer
              new SqlParameter("@diachi",tt.diachi),
              new SqlParameter("@mags",tt.mags)
             };
-            return DataProvider.ExecuteNonQuery("themthuthu", para);
+            return DataProvider.ExecuteNonQuery("themthuthu ", para);
         }
         public static int UpdateProfile(Thuthu tt)
         {
